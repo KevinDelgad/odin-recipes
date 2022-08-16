@@ -1,0 +1,15 @@
+/* style.css */
+
+body{
+    background-color: #8EA8C3;
+}
+
+li a{
+    color:#23395B;
+}
+
+.Recipe{
+    background-color: #b5bab7;
+    color: #23395B;
+    font-family: 'Times New Roman', Times, serif;
+}
